@@ -33,13 +33,13 @@
           "editor.background": "#211A1E",
           "editor.findMatchBackground": "#211A1E",
           "editor.findMatchBorder": "#DD6E42",
-          "editor.findMatchHighlightBackground": "#DD6E4293",
+          "editor.findMatchHighlightBackground": "#dd6e4267",
           "editor.findMatchHighlightBorder": "#E1E1E130",
           "editor.foreground": "#BBBBBB",
-          "editor.lineHighlightBackground": "#211A1E50",
-          "editor.selectionBackground": "#60719630",
-          "editor.selectionHighlightBackground": "#DD6E426b",
-          "editor.selectionHighlightBorder": "#607196f0",
+          "editor.lineHighlightBackground": "#dd6e423f",
+          "editor.selectionBackground": "#dd6e4283",
+          "editor.selectionHighlightBackground": "#f855146b",
+          "editor.selectionHighlightBorder": "#DD6E42",
           "editorBracketMatch.background": "#3f3f3d",
           "editorBracketMatch.border": "#dd6e42bd",
           "editorCursor.foreground": "#69995D",
@@ -54,8 +54,8 @@
           "editorIndentGuide.activeBackground": "#414141",
           "editorIndentGuide.background": "#41414170",
           "editorInfo.foreground": "#60719670",
-          "editorLineNumber.activeForeground": "#607196",
-          "editorLineNumber.foreground": "#DD6E42c0",
+          "editorLineNumber.activeForeground": "#DD6E42",
+          "editorLineNumber.foreground": "#607196",
           "editorLink.activeForeground": "#BBBBBB",
           "editorMarkerNavigation.background": "#BBBBBB05",
           "editorOverviewRuler.border": "#211A1E",
@@ -664,7 +664,7 @@
           {
                "scope": ["support.type.property-name.json"],
                "settings": {
-                    "foreground": "#BBBBBB"
+                    "foreground": "#DD6E42"
                }
           },
           {
