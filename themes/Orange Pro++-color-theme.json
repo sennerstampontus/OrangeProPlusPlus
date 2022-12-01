@@ -462,7 +462,7 @@
                     "source.sass keyword.control"
                ],
                "settings": {
-                    "foreground": "#69995D"
+                    "foreground": "#50cec8ef"
                }
           },
           {
