@@ -6,8 +6,8 @@
           "activityBar.background": "#211A1E",
           "activityBar.border": "#211A1E60",
           "activityBar.foreground": "#BBBBBB",
-          "activityBarBadge.background": "#607196",
-          "activityBarBadge.foreground": "#211A1E",
+          "activityBarBadge.background": "#dd6e42",
+          "activityBarBadge.foreground": "#d8d8d8",
 
           "badge.background": "#211A1E30",
           "badge.foreground": "#DD6E42",
@@ -27,7 +27,7 @@
           "diffEditor.insertedTextBackground": "#3A553415",
           "diffEditor.removedTextBackground": "#AD9E6B20",
 
-          "dropdown.background": "#211A1E",
+          "dropdown.background": "#211c1a",
           "dropdown.border": "#E1E1E110",
 
           "editor.background": "#211A1E",
@@ -76,7 +76,7 @@
           "editorWidget.resizeBorder": "#DD6E42",
 
           "extensionButton.prominentBackground": "#3A553490",
-          "extensionButton.prominentHoverBackground": "#AD9E6B",
+          "extensionButton.prominentHoverBackground": "#170f8d",
           "focusBorder": "#E1E1E100",
 
           "gitDecoration.conflictingResourceForeground": "#f9a940",
@@ -118,10 +118,10 @@
           "menu.background": "#211A1Ef8",
           "menu.border": "#DD6E4250",
           "menu.foreground": "#BBBBBB",
-          "menu.selectionBackground": "#211A1E",
+          "menu.selectionBackground": "#dd6e42c2",
           "menu.selectionBorder": "#211A1E30",
           "menu.selectionForeground": "#BBBBBB",
-          "menu.separatorBackground": "#BBBBBB",
+          "menu.separatorBackground": "#8b8b8b",
 
           "menubar.selectionBackground": "#211A1E",
           "menubar.selectionBorder": "#DD6E4250",
@@ -251,6 +251,7 @@
           "titleBar.border": "#211A1E60",
           "titleBar.inactiveBackground": "#211A1E",
           "titleBar.inactiveForeground": "#BBBBBB",
+
           // END TITLE BAR //
 
           "tree.indentGuidesStroke": "#414141",
@@ -267,7 +268,7 @@
                     "storage.modifier"
                ],
                "settings": {
-                    "foreground": "#dfe170",
+                    "foreground": "#c9ca92d5",
                     "fontStyle": "italic"
                }
           },
@@ -501,7 +502,7 @@
                     "punctuation.separator.key-value.html"
                ],
                "settings": {
-                    "foreground": "#DD6E42"
+                    "foreground": "#48b6d1"
                }
           },
           {
@@ -801,7 +802,8 @@
                "scope": [
                     "comment.line.double-slash.ts",
                     "comment.block.html",
-                    "comment.block.scss"
+                    "comment.block.scss",
+                    "comment.block.ts"
                ],
                "settings": {
                     "foreground": "#80787c",
