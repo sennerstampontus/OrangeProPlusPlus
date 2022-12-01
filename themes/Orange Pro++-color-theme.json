@@ -446,7 +446,6 @@
                     "string.quoted.double.html",
                     "variable.other.constant.js",
                     "variable.other.object.property.js",
-                    "string.quoted.double.json",
                     "markup.fenced_code.block.markdown",
                     "markup.inline.raw.string.markdown",
                     "variable.function",
@@ -463,6 +462,13 @@
                ],
                "settings": {
                     "foreground": "#50cec8ef"
+               }
+          },
+          {
+               "scope": ["string.quoted.double.json"],
+               "settings": {
+                    "foreground": "#69995D",
+                    "fontStyle": "italic"
                }
           },
           {
