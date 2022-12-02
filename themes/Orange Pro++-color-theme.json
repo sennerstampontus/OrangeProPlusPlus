@@ -140,7 +140,7 @@
           "notifications.foreground": "#BBBBBB",
 
           "panel.background": "#211A1E",
-          "panel.border": "#211A1E60",
+          "panel.border": "#DD6E42cc",
           "panelTitle.activeBorder": "#DD6E42",
           "panelTitle.activeForeground": "#E1E1E1",
           "panelTitle.inactiveForeground": "#BBBBBB",
@@ -237,6 +237,8 @@
           "terminal.ansiWhite": "#344255",
           "terminal.ansiYellow": "#eca445",
           "terminal.foreground": "#a9a8a8",
+          "terminal.background": "#211a1ea4",
+          "terminal.tab.activeBorder": "#DD6E42",
           "terminalCommandDecoration.successBackground": "#BACBA9",
           "terminalCommandDecoration.errorBackground": "#c13812",
           "terminalCursor.background": "#211A1E",
