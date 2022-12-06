@@ -270,7 +270,7 @@
                     "storage.modifier"
                ],
                "settings": {
-                    "foreground": "#c9ca92d5",
+                    "foreground": "#dcdd85",
                     "fontStyle": "italic"
                }
           },
@@ -822,6 +822,13 @@
                "scope": ["support.variable.property.ts"],
                "settings": {
                     "foreground": "#798ebb",
+                    "fontStyle": "bold"
+               }
+          },
+          {
+               "scope": [""],
+               "settings": {
+                    "foreground": "#FF0000",
                     "fontStyle": "bold"
                }
           }
