@@ -18,4 +18,10 @@
 ![Orange Pro++ - Color Theme - example3](https://user-images.githubusercontent.com/89920970/205871790-623c941e-b566-439f-8e01-766c5085c459.png)
 
 
+## Contribute to make the theme great for everyone!
+* Fork the project.
+* Work as if you would on any project.
+* When you think you have something you want to share and contribute with, feel free to creata a request and I'll review it.
+* Keep in mind that I'll only accept the request if it feels right to this theme and will try to leave a comment in either way.
+
 **Enjoy!**
