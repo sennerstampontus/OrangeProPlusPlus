@@ -826,10 +826,17 @@
                }
           },
           {
-               "scope": [""],
+               "scope": ["meta.brace.round.ts"],
                "settings": {
-                    "foreground": "#FF0000",
+                    "foreground": "#e2c671",
                     "fontStyle": "bold"
+               }
+          },
+          {
+               "scope": ["meta.embedded.block.vue-html"],
+               "settings": {
+                    "foreground": "#94a6ad",
+                    "fontStyle": "bold italic"
                }
           }
      ]
