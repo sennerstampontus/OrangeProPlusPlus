@@ -1,8 +1,8 @@
 {
   "name": "orage-pro-plusplus",
   "displayName": "Orange Pro++",
-  "description": "Cool orange colored theme",
-  "version": "0.0.1",
+  "description": "Orange contrast colored theme. Well, yeah, that simple",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.73.0"
   },
