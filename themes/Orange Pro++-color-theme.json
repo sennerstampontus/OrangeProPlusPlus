@@ -340,7 +340,7 @@
         "entity.name.tag.reference.scss"
       ],
       "settings": {
-        "foreground": "#69995D"
+        "foreground": "#57b7c6"
       }
     },
     {
@@ -838,6 +838,27 @@
       "settings": {
         "foreground": "#c5783a",
         "fontStyle": "bold italic"
+      }
+    },
+    {
+      "scope": ["storage.modifier"],
+      "settings": {
+        "foreground": "#13c2f7",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["variable.other.object.ts"],
+      "settings": {
+        "foreground": "#70c75a",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["variable.other.object.property.ts"],
+      "settings": {
+        "foreground": "#6ce0bd",
+        "fontStyle": "italic"
       }
     }
   ]
